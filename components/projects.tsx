@@ -13,13 +13,13 @@ const projects: Project[] = [
     title: "Weather App",
     description: "A React app to check the weather.",
     technologies: ["React", "OpenWeather API", "Tailwind CSS"],
-    link: "#",
+    link: "https://mmt-clothing.netlify.app/",
   },
   {
     title: "Portfolio Website",
     description: "Personal portfolio website built with Next.js.",
     technologies: ["Next.js", "Tailwind CSS", "Framer Motion"],
-    link: "#",
+    link: "https://mmt-clothing.netlify.app/",
   },
   {
     title: "E-commerce Platform",
@@ -31,7 +31,7 @@ const projects: Project[] = [
     title: "Task Management App",
     description: "A productivity app for managing daily tasks and projects.",
     technologies: ["React", "Firebase", "Material UI"],
-    link: "#",
+    link: "https://mmt-clothing.netlify.app/",
   },
 ]
 

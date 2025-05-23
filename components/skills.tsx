@@ -10,10 +10,10 @@ type Skill = {
 }
 
 const technicalSkills: Skill[] = [
-  { name: "JavaScript", level: "Expert", percentage: 90 },
+  { name: "JavaScript", level: "Intermediate", percentage: 70 },
   { name: "JAVA", level: "Intermediate", percentage: 75 },
-  { name: "React", level: "Expert", percentage: 85 },
-  { name: "PYTHON", level: "Advanced", percentage: 80 },
+  { name: "React", level: "Basic", percentage: 40 },
+  { name: "Python", level: "Basic", percentage: 70 },
   { name: "HTML/CSS", level: "Expert", percentage: 90 },
   { name: "C/C++", level: "Advanced", percentage: 85 },
 ]

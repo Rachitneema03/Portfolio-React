@@ -30,13 +30,13 @@ export default function Contact() {
 
           <h3 className="text-xl font-bold mt-8 mb-4">Social Links</h3>
           <div className="flex space-x-4">
-            <a href="#" className="text-gray-600 hover:text-purple-600 transition-colors">
+            <a href="https://github.com/Rachitneema03" className="text-gray-600 hover:text-purple-600 transition-colors">
               <Github className="h-6 w-6" />
             </a>
-            <a href="#" className="text-gray-600 hover:text-purple-600 transition-colors">
+            <a href="https://www.linkedin.com/in/rachit-neema/" className="text-gray-600 hover:text-purple-600 transition-colors">
               <Linkedin className="h-6 w-6" />
             </a>
-            <a href="#" className="text-gray-600 hover:text-purple-600 transition-colors">
+            <a href="https://x.com/rachitneema3" className="text-gray-600 hover:text-purple-600 transition-colors">
               <Twitter className="h-6 w-6" />
             </a>
           </div>

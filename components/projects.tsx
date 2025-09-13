@@ -10,16 +10,16 @@ type Project = {
 
 const projects: Project[] = [
   {
-    title: "Weather App",
-    description: "A React app to check the weather.",
-    technologies: ["React", "OpenWeather API", "Tailwind CSS"],
-    link: "https://mmt-clothing.netlify.app/",
+    title: "Krishi-Mitra AI (In Top 8 during IBM Evaluation)",
+    description: "An AI agentic model for the farmers to help them in their day to day work .",
+    technologies: ["Python", "StreamLit", "Efficientnet B0" , "OpenWeathermap API", "beautiful Soup"],
+    link: "https://krishimitra-ai.streamlit.app/",
   },
   {
-    title: "Portfolio Website",
-    description: "Personal portfolio website built with Next.js.",
-    technologies: ["Next.js", "Tailwind CSS", "Framer Motion"],
-    link: "https://mmt-clothing.netlify.app/",
+    title: "VaultScan",
+    description: "A webapp which detects the APKs and AI tell is it secure to use",
+    technologies: ["React.js", "Tailwind CSS", "Python", "Firebase"],
+    link: "https://fakebankapkpy-lajo.vercel.app/",
   },
   {
     title: "E-commerce Platform",

@@ -10,12 +10,12 @@ type Skill = {
 }
 
 const technicalSkills: Skill[] = [
-  { name: "JavaScript", level: "Intermediate", percentage: 70 },
-  { name: "JAVA", level: "Intermediate", percentage: 75 },
-  { name: "React", level: "Basic", percentage: 40 },
-  { name: "Python", level: "Basic", percentage: 70 },
-  { name: "HTML/CSS", level: "Expert", percentage: 90 },
-  { name: "C/C++", level: "Advanced", percentage: 85 },
+  { name: "Java", level: "Intermediate", percentage: 70 },
+  { name: "C/C++", level: "Intermediate", percentage: 75 },
+  { name: "Python ", level: "Basic", percentage: 40 },
+  { name: "ReactJS", level: "Intermediate", percentage: 70 },
+  { name: "TailwindCSS", level: "Intermediate", percentage: 75 },
+  { name: "Firebase", level: "Basic", percentage: 45 },
 ]
 
 const softSkills: Skill[] = [
